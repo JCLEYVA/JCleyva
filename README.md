@@ -1,4 +1,4 @@
-![this is my header image](/JCleyva/sley.png)
+![this is my header image](/sley.png)
 
 <!-- <p align="center">
 <a href="" target="_blank" href="https://icons8.com/icon/y41EQlB7qTgT/facebook">Facebook</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
